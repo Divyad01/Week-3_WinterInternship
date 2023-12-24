@@ -2,11 +2,11 @@
 This README provides an overview of the data cleaning process performed on two datasets during the WEEK 3 Winter Internship.
 
 # Datasets
-Dataset 1: [Dataset_Name_1]
+Dataset 1: [Week3_Data]
 Description: [Brief description of the first dataset]
 Columns: [List of columns in the dataset]
 
-Dataset 2: [Dataset_Name_2]
+Dataset 2: [Chipotle_Dataset]
 Description: [Brief description of the second dataset]
 Columns: [List of columns in the dataset]
 
